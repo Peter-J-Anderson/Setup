@@ -33,6 +33,7 @@ choco install hxd -y
 choco install keepass -y
 choco install cmder -y
 choco install lockhunter -y
+choco install etcher -y
 
 
 # FRAMEWORKS
